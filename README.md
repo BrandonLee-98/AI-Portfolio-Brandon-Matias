@@ -25,8 +25,12 @@ I enjoy taking what I learn in the classroom and applying it to real-world proje
 
 #### 📰 [NLP: NewsBot Intelligence System](https://www.google.com/search?q=https://github.com/BrandonLee-98/NLP-NewsBot-Intelligence)
 
-  * **Status:** 🟡 Current Project (Finalizing for May 2)
-  * **Project Goal:** Learning to build a tool that gathers news articles and analyzes whether the tone is positive or negative.
+  * **Status:** 🟡 Active Collection (Finalizing Labs & Capstone)
+  *  **What's Inside:**
+     * **Capstone Project:** NewsBot Intelligence System 2.0 — An automated news aggregator and sentiment classifier.
+     * **Core Labs:** Practical implementations of Sentiment Analysis, Part-of-Speech (POS) Tagging, and Text Representation.
+     * **Techniques:** Experience with data cleaning, tokenization, and dataset balancing (SMOTE).
+  * **Project Goal:** Demonstrating a journey from basic text processing to building complex, automated AI systems.
 
 #### 📈 [AI Applications: Predictive Modeling](https://www.google.com/search?q=https://github.com/BrandonLee-98/AI-Applications-Machine-Learning)
 
