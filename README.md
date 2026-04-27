@@ -47,3 +47,9 @@ I enjoy taking what I learn in the classroom and applying it to real-world proje
   * **Daily Affirmations:** Building a digital version of my affirmation book to learn more about mobile widgets.
 
 -----
+
+### 📫 Let's Connect!
+I am always looking to learn from others in the AI community. Feel free to reach out if you have questions about my projects or just want to talk shop about robotics and automation.
+
+* **Email:** [bmatias98@outlook.com](mailto:bmatias98@outlook.com)
+* **LinkedIn:** [linkedin.com/in/brandonmatias](https://www.linkedin.com/in/brandonmatias)
