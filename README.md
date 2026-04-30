@@ -21,11 +21,10 @@ I enjoy taking what I learn in the classroom and applying it to real-world proje
 
 ### 📂 My AI Course Portfolio
 
-*This repository serves as a central hub for my academic projects at HCC. Each link below leads to a specific project where I share my code and what I learned during the process.*
+*This repository serves as a central hub for my academic projects at HCC. Each link below leads to a specific repository where I share my code and what I learned during the process.*
 
-#### 📰 [NLP: NewsBot Intelligence System](https://www.google.com/search?q=https://github.com/BrandonLee-98/NLP-NewsBot-Intelligence)
+#### 📰 [Natural Language Processing Collection](https://github.com/BrandonLee-98/Brandon-Matias-NLP-ITAI2373)
 
-  * **Status:** 🟡 Active Collection (Finalizing Labs & Capstone)
   *  **What's Inside:**
      * **Capstone Project:** NewsBot Intelligence System 2.0 — An automated news aggregator and sentiment classifier.
      * **Core Labs:** Practical implementations of Sentiment Analysis, Part-of-Speech (POS) Tagging, and Text Representation.
