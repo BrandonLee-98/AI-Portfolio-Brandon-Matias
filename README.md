@@ -25,11 +25,12 @@ I enjoy taking what I learn in the classroom and applying it to real-world proje
 
 #### 📰 [Natural Language Processing Collection](https://github.com/BrandonLee-98/Brandon-Matias-NLP-ITAI2373)
 
-  *  **What's Inside:**
-     * **Capstone Project:** NewsBot Intelligence System 2.0 — An automated news aggregator and sentiment classifier.
-     * **Core Labs:** Practical implementations of Sentiment Analysis, Part-of-Speech (POS) Tagging, and Text Representation.
-     * **Techniques:** Experience with data cleaning, tokenization, and dataset balancing (SMOTE).
-  * **Project Goal:** Demonstrating a journey from basic text processing to building complex, automated AI systems.
+**What's Inside:**
+
+* **Capstone Project:** *NewsBot Intelligence System 2.0* — A production-ready intelligence platform featuring zero-shot classification, abstractive summarization, multilingual translation pipelines, and an interactive QA chatbot. 
+* **Core Labs:** Practical implementations of advanced NLP concepts, including Latent Dirichlet Allocation (LDA) for topic discovery, Named Entity Recognition (NER), and Sentiment Evolution tracking.
+* **Techniques:** Hands-on experience with transformer-based models (Hugging Face), cross-lingual analysis workflows, statistical topic clustering, and designing modular, service-oriented system architectures.
+* **Project Goal:** Demonstrating the evolution from foundational text processing scripts to engineering scalable, automated AI applications deployed through interactive web dashboards.
 
 #### 📈 [AI Applications: Predictive Modeling](https://www.google.com/search?q=https://github.com/BrandonLee-98/AI-Applications-Machine-Learning)
 
