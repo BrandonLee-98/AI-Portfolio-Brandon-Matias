@@ -32,12 +32,12 @@ I enjoy taking what I learn in the classroom and applying it to real-world proje
 * **Techniques:** Hands-on experience with transformer-based models (Hugging Face), cross-lingual analysis workflows, statistical topic clustering, and designing modular, service-oriented system architectures.
 * **Project Goal:** Demonstrating the evolution from foundational text processing scripts to engineering scalable, automated AI applications deployed through interactive web dashboards.
 
-#### 📈 [AI Applications: Predictive Modeling](https://www.google.com/search?q=https://github.com/BrandonLee-98/AI-Applications-Machine-Learning)
+#### 📈 [AI Applications: Predictive Modeling](https://github.com/BrandonLee-98/Brandon-Matias-ITAI2372)
 
   * **Status:** ⚪ Upcoming
   * **Project Goal:** Exploring how different mathematical models can be used to predict outcomes based on data.
 
-#### 👁️ [Computer Vision: Visual Systems](https://www.google.com/search?q=https://github.com/BrandonLee-98/Computer-Vision-Systems)
+#### 👁️ [Computer Vision: Visual Systems](https://github.com/BrandonLee-98/Brandon-Matias-ITAI1378)
 
   * **Status:** ⚪ Upcoming
   * **Project Goal:** Practicing the basics of image recognition and how computers process visual information.
