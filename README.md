@@ -31,12 +31,19 @@ I enjoy taking what I learn in the classroom and applying it to real-world proje
 * **Core Labs:** Practical implementations of advanced NLP concepts, including Latent Dirichlet Allocation (LDA) for topic discovery, Named Entity Recognition (NER), and Sentiment Evolution tracking.
 * **Techniques:** Hands-on experience with transformer-based models (Hugging Face), cross-lingual analysis workflows, statistical topic clustering, and designing modular, service-oriented system architectures.
 * **Project Goal:** Demonstrating the evolution from foundational text processing scripts to engineering scalable, automated AI applications deployed through interactive web dashboards.
+---
+#### 🌐 [AI Applications: Industry Orchestration](https://github.com/BrandonLee-98/AI-Applications-Portfolio-2026)
 
-#### 📈 [AI Applications: Predictive Modeling](https://github.com/BrandonLee-98/Brandon-Matias-ITAI2372)
+**What's Inside:**
+* **Strategic Proposals:** Includes original frameworks like the *"Digital Moses"* protocol for V2X traffic orchestration and *"The Civic Mind,"* an AGI-based approach to equitable municipal resource management.
+* **Predictive Maintenance:** A deep dive into Industrial IoT (IIoT) featuring the *Acoustic-Neural Quality Guard (ANQG)*, a system designed to "listen" for micro-cracks in manufacturing welds.
+* **Ethics & Governance:** Extensive analysis of algorithmic bias in healthcare datasets, the "Black Box" problem in diagnostic CNNs, and the implementation of Explainable AI (XAI).
+* **Cross-Industry Research:** Case studies covering Deep Reinforcement Learning in autonomous vehicles, fraud detection in fintech, and computer vision for cashierless retail.
 
-  * **Status:** ⚪ Upcoming
-  * **Project Goal:** Exploring how different mathematical models can be used to predict outcomes based on data.
-
+**Technical Stack:**
+* **Core:** Python (TensorFlow, Pandas), SQL, Deep Reinforcement Learning (DRL).
+* **Architecture:** IoT/IIoT, 5G V2X Communication, Blockchain Integrity, and Edge Computing.
+---
 #### 👁️ [Computer Vision: Visual Systems](https://github.com/BrandonLee-98/Brandon-Matias-ComputerVision-ITAI1378)
 
 Intelligent Virtual Staging through Dual-Pass Computer Vision and Generative AI Synthesis
