@@ -32,7 +32,7 @@ I enjoy taking what I learn in the classroom and applying it to real-world proje
 * **Techniques:** Hands-on experience with transformer-based models (Hugging Face), cross-lingual analysis workflows, statistical topic clustering, and designing modular, service-oriented system architectures.
 * **Project Goal:** Demonstrating the evolution from foundational text processing scripts to engineering scalable, automated AI applications deployed through interactive web dashboards.
 ---
-#### 🌐 [AI Applications: Industry Orchestration](https://github.com/BrandonLee-98/AI-Applications-Portfolio-2026)
+#### 🌐 [AI Applications: Industry Orchestration](https://github.com/BrandonLee-98/Brandon-Matias-AI-Applications-ITAI2372)
 
 **What's Inside:**
 * **Strategic Proposals:** Includes original frameworks like the *"Digital Moses"* protocol for V2X traffic orchestration and *"The Civic Mind,"* an AGI-based approach to equitable municipal resource management.
