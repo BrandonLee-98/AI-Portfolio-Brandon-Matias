@@ -39,8 +39,19 @@ I enjoy taking what I learn in the classroom and applying it to real-world proje
 
 #### 👁️ [Computer Vision: Visual Systems](https://github.com/BrandonLee-98/Brandon-Matias-ITAI1378)
 
-  * **Status:** ⚪ Upcoming
-  * **Project Goal:** Practicing the basics of image recognition and how computers process visual information.
+Intelligent Virtual Staging through Dual-Pass Computer Vision and Generative AI Synthesis
+
+The CV Virtual Staging project is an automated, high-fidelity pipeline designed to bridge the "Vacancy Gap" in real estate. It preserves architectural integrity while synthesizing professional furniture to help buyers visualize spatial layouts.
+
+GitHub: [Final Project Repository](https://github.com/BrandonLee-98/CV-Project-Virtual-Staging)
+
+**Key Achievement:** Achieved 92.5% classification accuracy and a 9.6/10 structural integrity score.
+**Technical Stack:**
+* **Computer Vision:** YOLO-World (Zero-Shot) for identifying architectural "anchors" like windows and doors.
+* **Generative Engine:** SeeDream 4.5 diffusion transformer architecture optimized for interior design.
+* **Inference Speed:** Delivers high-resolution photorealistic staging in under 15 seconds.
+* **Reliability:** Features a 100% uptime architecture with automated fallback to OpenAI's image API.
+
 
 -----
 
