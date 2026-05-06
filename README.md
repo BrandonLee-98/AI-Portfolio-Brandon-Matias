@@ -37,7 +37,7 @@ I enjoy taking what I learn in the classroom and applying it to real-world proje
   * **Status:** ⚪ Upcoming
   * **Project Goal:** Exploring how different mathematical models can be used to predict outcomes based on data.
 
-#### 👁️ [Computer Vision: Visual Systems](https://github.com/BrandonLee-98/Brandon-Matias-ITAI1378)
+#### 👁️ [Computer Vision: Visual Systems](https://github.com/BrandonLee-98/Brandon-Matias-ComputerVision-ITAI1378)
 
 Intelligent Virtual Staging through Dual-Pass Computer Vision and Generative AI Synthesis
 
